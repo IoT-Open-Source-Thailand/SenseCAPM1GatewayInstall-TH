@@ -9,7 +9,7 @@ but keep in mind that for production usage it might need modifications.
 ## Directory layout
 
 * `docker-compose.yml`: the docker-compose file containing the services
-* `configuration/chirpstack`: directory containing the ChirpStack configuration files
+* `configuration/chirpstack`: directory นี้จะเก็บไฟล์ configuration ต่างๆของ ChirpStack
 * `configuration/chirpstack-gateway-bridge`: directory containing the ChirpStack Gateway Bridge configuration
 * `configuration/mosquitto`: directory containing the Mosquitto (MQTT broker) configuration
 * `configuration/postgresql/initdb/`: directory containing PostgreSQL initialization scripts
